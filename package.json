@@ -21,7 +21,7 @@
   "dependencies": {
     "@google/genai": "^2.6.0",
     "@supabase/supabase-js": "^2.106.2",
-    "next": "15.4.4",
+    "next": "^16.2.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-markdown": "^10.1.0",
@@ -38,7 +38,7 @@
     "@types/react-dom": "^19",
     "@types/uuid": "^10.0.0",
     "eslint": "^9",
-    "eslint-config-next": "15.4.4",
+    "eslint-config-next": "^16.2.6",
     "prettier": "^3.6.2",
     "tailwindcss": "^4",
     "typescript": "^5"
